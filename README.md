@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tourniquet
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python, Django, Plotly
+- 🌱 I’m currently learning TypeScript, React, NextJS
 - 📫 How to reach me admyn3d@gmail.com
 
 <!---
